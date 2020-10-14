@@ -1,10 +1,7 @@
-# HW2
-Homework 2
 
-**Group #16**:
-+ Dilara Isikli
-+ Luca Avitabile
-+ Riccardo Ceccaroni
+The goal of this project is to perform an analysis on the largest open collection of soccer-logs ever released, collected by [Wyscout] (https://wyscout.com/) containing all the spatio-temporal events (passes, shots, fouls, etc.) that occur during all matches of the entire season 2017-2018 of seven competitions (La Liga, Serie A, Bundesliga, Premier League, Ligue 1, FIFA World Cup 2018, UEFA Euro Cup 2016). A match event contains information about its position, time, outcome, player and characteristics.
+
+In particular, we are curious to answer to some specific research questions (RQs) that may help us discover and interpret meaningful patterns in data.
 
 ## Content:
 
